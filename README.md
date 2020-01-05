@@ -1,15 +1,27 @@
 ### Stack
+
 React 16 / Jsx pages
+
 React Router
+
 React-Thunk
+
 Redux
+
 Axios
+
 Jest / Enzyme
+
 Webpack
+
 Babel
+
 Pure JavaScript
+
 HTML5
+
 CSS3 w/ Mobile First
+
 FireBase for Database and Hosting
 
 **Full Burger app with react 16.**
