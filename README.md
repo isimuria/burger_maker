@@ -44,3 +44,6 @@ https://cannyedge34.github.io/react-burger-app
 or
 
 https://reactjs-189016.firebaseapp.com
+
+### Disclaimer ###
+I coded this app by following/with help of react course of Maximilian Schwarzmüller
